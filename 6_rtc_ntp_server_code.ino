@@ -2,10 +2,10 @@
 #include <Wire.h>
 #include <time.h>
 
-#define DS1307_I2C_ADDRESS 0X68
+#define DS1307_I2C_ADDRESS 0X68  //address of your RTC
 
-const char* SSID = "Martin router king";
-const char* Password = "amulya16";
+const char* SSID = "<Your WiFi SSID";
+const char* Password = "<WiFi password>";
 const char* NTP = "pool.ntp.org";
 const long gmtoffset_sec = 19800;
 const int daylight_sec = 0;
