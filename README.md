@@ -31,7 +31,7 @@ Each project below is documented with code, schematics, and outputs:
 | 3 | [Online Audio Streaming](./3_Online_Audio_streaming.md) | Streams live audio over a network using ESP32 and a mic module. |
 | 4 | [Online Video Streaming](./4_Online_Video_Streaming.md) | Streams video (OpenCV + ESP32 for integration) over local network. |
 | 5 | [Google Assistant Relay Control](./5_Google_Assistant_Relay_control.md) | Controls a relay using Google Assistant commands via IFTTT/Firebase. |
-| 6 | [RTC with NTP Server](./6_NTP-RTC Update.md)| Displays real-time date & time using NTP server on LCD. |
+| 6 | [RTC with NTP Server](./6_NTP-RTC_Update.md)| Displays real-time date & time using NTP server on LCD. |
 
 > 📌 Each project has its own folder and individual `README.md` with wiring, code, output, and what I learned.
 
