@@ -26,7 +26,7 @@ Each project below is documented with code, schematics, and outputs:
 
 | # | Project Title | Description |
 |--|---------------|-------------|
-| 1 | [Smart Medicine Reminder](./1_Smart_Medicine_Reminder_ReadMe.md) | Reminder system using RTC, buzzer, LCD, and buttons. |
+| 1 | [Smart Medicine Reminder](./Smart_Medicine_Reminder) | Reminder system using RTC, buzzer, LCD, and buttons. |
 | 2 | [Menu System + LED Patterns](./2_Menu_LED_Selector_LCD.md) | LCD-based menu to control LED operations using push buttons. |
 | 3 | [Online Audio Streaming](./3_Online_Audio_streaming.md) | Streams live audio over a network using ESP32 and a mic module. |
 | 4 | [Online Video Streaming](./4_Online_Video_Streaming.md) | Streams video (OpenCV + ESP32 for integration) over local network. |
