@@ -1,10 +1,10 @@
 #include <LiquidCrystal.h> 
 
-LiquidCrystal lcd(16,17,19,21,22,23); //Port P2
+LiquidCrystal lcd(16,17,19,21,22,23); //pin number of the port connected to lcd
 
-const int LED[8] = {0,2,4,12,13,14,15,27};//port p3
+const int LED[8] = {0,2,4,12,13,14,15,27};//pin numbers in the port connected to LED
 
-#define MENU 32 //port p1
+#define MENU 32 // pin numbers connected to buttons
 #define UP 33
 #define DOWN 36
 #define ENTER 34
