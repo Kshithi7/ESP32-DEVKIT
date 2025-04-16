@@ -36,7 +36,8 @@ Each project below is documented with code, schematics, and outputs:
 > 📌 Each project has its own folder and individual `README.md` with wiring, code, output, and what I learned.
 
 ## 📸 Sneak Peek
-*Diagrams, images, or demo GIFs can go here in the future!*
+-Just a picture of the board im working on.
+-and some outputs.
 
 ## 💡 Goals
 - Strengthen understanding of real-time embedded systems
