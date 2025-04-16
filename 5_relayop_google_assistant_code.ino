@@ -1,10 +1,10 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-#define WIFI_SSID "Martin"
-#define WIFI_PASS "amulya16"
-#define AIO_USERNAME "Amulya16"
-#define AIO_KEY "aio_IjMI02s9hP5t4FCjNWZzs6fAKnZI"
+#define WIFI_SSID "<Your Wifi SSID>"
+#define WIFI_PASS "<WiFi password>"
+#define AIO_USERNAME "<Adafruit IO username> "
+#define AIO_KEY "<Adafruit IO secret key>"
 #define RELAY_PIN 26  // Change this to the GPIO pin connected to relay
 
 void setup() {
