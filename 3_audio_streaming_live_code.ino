@@ -1,9 +1,9 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "Martin";  // Change this
-const char* password = "amulya16";  // Change this
-String audioURL = "http://192.168.239.40:5454/audio";  // Flask server IP
+const char* ssid = "<Your WiFi SSID>";  // Change this
+const char* password = "<WiFi password>";  // Change this
+String audioURL = "<IP obatined after Flask server run> ";  // Flask server IP
 
 WebServer server(80);
 
