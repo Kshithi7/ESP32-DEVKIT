@@ -1,9 +1,9 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "Oppo";  // Change this 
-const char* password = "navyashree";  // Change this
-String videoURL = "http://192.168.25.40:5000/video";  // Update with laptop's IP
+const char* ssid = "<Your WiFi SSID>";  // Change this 
+const char* password = "<WiFi password>";  // Change this
+String videoURL = "<URL of laptop obtained after running Flask server>";  // Update with laptop's IP
 
 WebServer server(80);
 
