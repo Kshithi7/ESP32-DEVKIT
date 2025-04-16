@@ -27,11 +27,11 @@ Each project below is documented with code, schematics, and outputs:
 | # | Project Title | Description |
 |--|---------------|-------------|
 | 1 | [Smart Medicine Reminder](./Smart_Medicine_Reminder) | Reminder system using RTC, buzzer, LCD, and buttons. |
-| 2 | [Menu System + LED Patterns](./2_Menu_LED_Selector_LCD.md) | LCD-based menu to control LED operations using push buttons. |
-| 3 | [Online Audio Streaming](./3_Online_Audio_streaming.md) | Streams live audio over a network using ESP32 and a mic module. |
-| 4 | [Online Video Streaming](./4_Online_Video_Streaming.md) | Streams video (OpenCV + ESP32 for integration) over local network. |
-| 5 | [Google Assistant Relay Control](./5_Google_Assistant_Relay_control.md) | Controls a relay using Google Assistant commands via IFTTT/Firebase. |
-| 6 | [RTC with NTP Server](./6_NTP-RTC_Update.md)| Displays real-time date & time using NTP server on LCD. |
+| 2 | [Menu System + LED Patterns](./Menu_LED_Selector_LCD) | LCD-based menu to control LED operations using push buttons. |
+| 3 | [Online Audio Streaming](./Online_audio_streaming) | Streams live audio over a network using ESP32 and a mic module. |
+| 4 | [Online Video Streaming](./Online_video_streaming) | Streams video (OpenCV + ESP32 for integration) over local network. |
+| 5 | [Google Assistant Relay Control](./Google_Assistant_relay_control) | Controls a relay using Google Assistant commands via IFTTT/Firebase. |
+| 6 | [RTC with NTP Server](./NTP_to_RTC_upload)| Displays real-time date & time using NTP server on LCD. |
 
 > 📌 Each project has its own folder and individual `README.md` with wiring, code, output, and what I learned.
 
