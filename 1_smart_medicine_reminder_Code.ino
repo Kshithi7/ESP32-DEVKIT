@@ -14,16 +14,16 @@ WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org", 19800, 60000); // IST offset (5hr 30min)
 
 // LCD Pins
-const int rs = 16, en = 17, d4 = 19, d5 = 21, d6 = 22, d7 = 23; // Port 2
+const int rs = 16, en = 17, d4 = 19, d5 = 21, d6 = 22, d7 = 23; // port connected to lcd
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
 // Button Pins
-const int buttonMenu = 32;  // Port 1
+const int buttonMenu = 32;  // pin numbers connected to push buttons
 const int buttonUp = 33;
 const int buttonDown = 36;
 const int buttonEnter = 34;
 
-const int buzzerPin = 25; // Port 3
+const int buzzerPin = 25; // Pin number connected to buzzer
 
 // Struct to store reminders
 struct Reminder {
