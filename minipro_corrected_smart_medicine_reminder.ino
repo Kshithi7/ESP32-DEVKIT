@@ -6,8 +6,8 @@
 #include <LiquidCrystal.h>
 
 // Wi-Fi Credentials
-const char* ssid = "Martin router king";
-const char* password = "amulya16";
+const char* ssid = "<Your WiFi SSID>";
+const char* password = "<WiFi password>";
 
 // NTP Setup
 WiFiUDP ntpUDP;
