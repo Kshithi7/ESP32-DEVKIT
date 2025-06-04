@@ -27,5 +27,5 @@ To enable control of a relay through Google Assistant, using Adafruit IO as an i
 
 ## ✅ Output
 - The relay is turned ON or OFF based on commands received from [Google Assistant through Adafruit IO](../images/relay_io_control).
-- Relay status is updated and printed on the [Serial Monitor](../images/relay_io_control/esp32_serial_monitor_op.png).
+- Relay status is updated and printed on the Serial Monitor. ![serial monitor](../images/relay_io_control/esp32_serial_monitor_op.png)
 - ESP32 connects to Wi-Fi, fetches the relay control status, and acts accordingly.
