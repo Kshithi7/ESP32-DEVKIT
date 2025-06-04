@@ -37,5 +37,8 @@ This project showcases how to build an interactive LED pattern controller using:
 
 ## 📸 Output
 
-- ![LCD displays options like](../images/menu_led_lcd.jpg): 
+<p align="center">
+  <img src="../images/menu_led_lcd.jpg" alt="Menu LCD display options" width="500"/>
+</p>
+
 
