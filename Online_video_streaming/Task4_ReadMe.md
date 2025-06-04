@@ -27,4 +27,6 @@ To stream video from a Flask server to an ESP32 web server, enabling playback in
 ## ✅ Output
 - A simple webpage is hosted by the ESP32 with an embedded video player.
 - The video player streams the content served from the Flask server.
+  ![op1](../images/live_video_streaming/video_cam_output.png)
 - The video plays automatically upon opening the webpage in a browser.
+  ![op1](../images/live_video_streaming/video_streaming_serial_monitor_op.png)
