@@ -29,4 +29,5 @@ To synchronize the time of an I2C RTC module (DS1307) with an NTP server using t
 ## ✅ Output
 - The RTC time is continuously displayed in the Serial Monitor in the format `HH:MM:SS` and `DD/MM/YYYY`.
 - Time is fetched from the NTP server and set to the DS1307 RTC module on startup.
+  ![serial monitor](../images/rtc with ntp.png)
 - The system ensures the RTC remains accurate even after power cycles by syncing with NTP on boot.
