@@ -26,6 +26,6 @@ To enable control of a relay through Google Assistant, using Adafruit IO as an i
 - Using voice commands with Google Assistant to trigger remote actions
 
 ## ✅ Output
-- The relay is turned ON or OFF based on commands received from [Google Assistant through Adafruit IO](.).
-- Relay status is updated and printed on the Serial Monitor.
+- The relay is turned ON or OFF based on commands received from [Google Assistant through Adafruit IO](./relay_io_control).
+- Relay status is updated and printed on the [Serial Monitor](./relay_io_control).
 - ESP32 connects to Wi-Fi, fetches the relay control status, and acts accordingly.
