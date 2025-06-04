@@ -27,4 +27,7 @@ To stream audio from a Flask server to an ESP32 web server, enabling playback in
 ## ✅ Output
 - A simple webpage is hosted by the ESP32 with an embedded audio player.
 - The audio player streams the content served from the Flask server.
+  <p align="center">
+  <img src="../images/llive_audio_streaming/" alt="flask server" width="500"/>
+</p>
 - The audio plays automatically upon opening the webpage in a browser.
